@@ -1,6 +1,6 @@
 /* Matrices con let y const
 
-Puede recordar que puede declarar variables con las palabras clave lety const. Las variables declaradas con let 
+Puede recordar que puede declarar variables con las palabras clave let y const. Las variables declaradas con let 
 se pueden reasignar.
 
 Las variables declaradas con la constpalabra clave no se pueden reasignar. Sin embargo, los elementos de una 
